@@ -251,3 +251,4 @@ def create_main_window():
 # Запуск программы
 if __name__ == "__main__":
     create_main_window()  # Открываем главное окно
+    толстборов
